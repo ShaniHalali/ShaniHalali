@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shani 👩🏻‍💻
 
-- 👩🏻‍🎓 3nd year B.Sc. Computer science student at Afeka - The Academic College of Engineering in Tel Aviv 
+- 👩🏻‍🎓 3rd year B.Sc. Computer science student at Afeka - The Academic College of Engineering in Tel Aviv 
 
 ## My Skill Set 🌈
 
