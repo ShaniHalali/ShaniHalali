@@ -4,7 +4,7 @@
 
 ## My Skill Set 🌈
 
-### Programming Languages :
+### Programming Languages and Frameworks :
 <div align="center">  
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Android_logo_2023_%28stacked%29.svg" alt="Android" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
