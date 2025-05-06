@@ -1,6 +1,8 @@
 # Hi 👋, I'm Shani 👩🏻‍💻
 
 - 👩🏻‍🎓 3rd year B.Sc. Computer science student at Afeka - The Academic College of Engineering in Tel Aviv 
+- 🚶‍♀️ I’m currently working on TourTrack, my final project – a tourism application designed for the Lower Galilee Regional Council as a social network for travelers. TourTrack
+- 👯 I’m looking to collaborate on Mobile aplication Projects
 
 ## My Skill Set 🌈
 
