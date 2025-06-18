@@ -5,6 +5,8 @@
 - 📱 Simultaneously working on my **seminar project**: an **Ads SDK**, integrated into TourTrack to deliver **location-based ads**.
 - 💻 I'm also developing a full-stack **Advertisers Portal Dashboard** (React + TypeScript + Vite + Flask + MongoDB) for campaign analytics.
 - 👯 I’m looking to collaborate on **mobile application** projects!
+📫 How to reach me shanihlli1234@gmail.com
+
 
 ---
 
@@ -30,7 +32,7 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 </div>
----
+
 
 ## 📊 GitHub Stats & Languages
 
