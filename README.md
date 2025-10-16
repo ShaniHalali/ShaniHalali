@@ -1,17 +1,13 @@
 # 👋 Hi, I'm Shani 👩🏻‍💻
 
-- 👩🏻‍🎓 Computer Science graduate (2025) from **Afeka** – The Academic College of Engineering in Tel Aviv.
+- 👩🏻‍🎓 Computer Science graduate (2025) from **Afeka** – The Academic College of Engineering in Tel Aviv, GPA: 86.
 - 👩‍🏫 Programming mentor at **Queen B** – specializing as **Front-End Lead** (HTML, CSS, and JavaScript)  
-  👉 Check out our final web project: [Breath Web App](https://shanihalali.github.io/Breath_Web_App.github.io/index.html)  
-  💻 View the code on GitHub: [GitHub Repository](https://github.com/ShaniHalali/Breath_Web_App.github.io)
-- 🧭 Currently developing **TourTrack** – my final project (in collaboration with [Ori Katz](https://github.com/orikatz99)), a tourism app built for the **Lower Galilee Regional Council**, serving as a **social network for travelers**.
-- 📱 Simultaneously working on my **seminar project**: an **Ads SDK**, integrated into TourTrack to deliver **location-based ads**.
+- 🧭  **TourTrack** – my final project (in collaboration with [Ori Katz](https://github.com/orikatz99)), a tourism app built for the **Lower Galilee Regional Council**, serving as a **social network for travelers**.
+- 📱 **seminar project**: an **Ads SDK**, integrated into TourTrack to deliver **location-based ads**.
 - 💻 I'm also developing a full-stack **Advertisers Portal Dashboard** (React + TypeScript + Vite + Flask + MongoDB) for campaign analytics.
 - 👯 I’m looking to collaborate on **mobile application** projects!
   
 - 📫 How to reach me shanihlli1234@gmail.com
-
-
 
 ---
 
