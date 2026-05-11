@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Shani 👩🏻‍💻
 
-- 👩🏻‍🎓 Computer Science graduate (2025) from **Afeka** – The Academic College of Engineering in Tel Aviv, GPA: 86.
+- 👩🏻‍🎓 Computer Science graduate (2025) from Afeka, with a specialization in Mobile Development GPA: 86.
+- 📱 Mobile Developer @BayBridgeDigital 
+- 🧭 TourTrack – my internship, a tourism app built for the Lower Galilee Regional Council, serving as a social network for travelers
 - 👩‍🏫 Programming mentor at **Queen B** – specializing as **Front-End Lead** (HTML, CSS, and JavaScript)  
-- 🧭  **TourTrack** – my final project (in collaboration with [Ori Katz](https://github.com/orikatz99)), a tourism app built for the **Lower Galilee Regional Council**, serving as a **social network for travelers**.
-- 📱 **seminar project**: an **Ads SDK**, integrated into TourTrack to deliver **location-based ads**.
+- 📱 **seminar project**: an **Ads SDK**, integrated into TourTrack to deliver **location-based ads**. Grade: 98
 - 💻 I'm also developing a full-stack **Advertisers Portal Dashboard** (React + TypeScript + Vite + Flask + MongoDB) for campaign analytics.
 - 👯 I’m looking to collaborate on **mobile application** projects!
   
