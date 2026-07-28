@@ -6,9 +6,24 @@
 - 👩‍🏫 Programming mentor at **Queen B** – specializing as **Front-End Lead** (HTML, CSS, and JavaScript)  
 - 📱 **seminar project**: an **Ads SDK**, integrated into TourTrack to deliver **location-based ads**. Grade: 98
 - 💻 I'm also developing a full-stack **Advertisers Portal Dashboard** (React + TypeScript + Vite + Flask + MongoDB) for campaign analytics.
-- 👯 I’m looking to collaborate on **mobile application** projects!
+- 👯 I'm looking to collaborate on **mobile application** projects!
   
 - 📫 How to reach me shanihlli1234@gmail.com
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| [🎬 BingeBox](https://github.com/ShaniHalali/React-Native-BingeBox) | A cross-platform movie & TV show tracking app with search, watchlists, and personalized recommendations. | React Native, JavaScript, REST API |
+| [🌤️ iOS Weather App](https://github.com/ShaniHalali/IOS_Weather_App) | A clean weather app that displays real-time forecasts based on the user's location. | Swift, iOS, CoreLocation, WeatherAPI |
+| [🃏 iOS Card War Game](https://github.com/ShaniHalali/IOS_Card_War_game) | A fun two-player card war game with animated gameplay built natively for iOS. | Swift, iOS, UIKit |
+| [🗺️ TourTrack](https://github.com/ShaniHalali/Final-Project-TourTrack-app) | A social tourism app for the Lower Galilee Regional Council — travelers can share routes, tips, and discoveries. | Java, Android, Firebase, Google Maps |
+| [🌍 iOS Learn Languages Game](https://github.com/ShaniHalali/IOS_Learn_languages_game) | An interactive language-learning game that helps users practice vocabulary in a fun, gamified way. | Swift, iOS, UIKit |
+| [📡 Android Ads SDK](https://github.com/ShaniHalali/SDK_ADS_Android_Library) | A seminar-project Android library that delivers location-based ads, integrated into TourTrack. Grade: 98. | Java, Android SDK, GPS/Location |
+| [🎥 Cinema Manager SQL](https://github.com/ShaniHalali/Cinema-manager-SQL-) | A database-driven cinema management system for handling movies, screenings, and bookings. | PostgreSQL, PL/pgSQL |
+| [✈️ Wander and Go](https://github.com/ShaniHalali/Wander-and-Go-travel-management-app) | A travel management Android app for planning and organizing trips with itineraries and destination tracking. | Java, Android, Firebase |
 
 ---
 
