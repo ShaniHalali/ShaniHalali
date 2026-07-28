@@ -25,8 +25,6 @@
 
 ## 💡 Technologies I Work With
 
-### 🧩 Languages & Frameworks
-
 <div align="center">  
   <a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Android_logo_2023_%28stacked%29.svg" alt="Android" height="50" /></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
@@ -45,13 +43,6 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 </div>
-
-
-## 📊 GitHub Stats & Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaniHalali&layout=compact&langs_count=8&theme=tokyoday)
-
----
 
 ## 🔗 Connect With Me
 
